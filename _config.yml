@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.png                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :  Beam                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Visual search meets fitness.
+app_description                           : Visual gym assistant for fitness enthusiasts.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -23,7 +23,7 @@ your_name                                 : David Bosun-Arebuwa
 your_link                                 : https://b3am.app
 your_city                                 : Birmingham
 email_address                             : davidarebuwa@gmail.com
-facebook_username                         :                                           
+facebook_username                         :
 instagram_username                        :
 twitter_username                          :
 github_username                           : davidarebuwa
@@ -37,7 +37,7 @@ features                                  :
   - title                                 : See your way to fitness
     description                           : Not sure what exercise to do? Our visual search engine suggests activities based on what you see.
     fontawesome_icon_name                 : eye
-    
+
   - title                                 : The Gym in your pocket
     description                           : Beam is always at your gym, fitness center and even at home and connected to any equipment.
     fontawesome_icon_name                 : dumbbell
